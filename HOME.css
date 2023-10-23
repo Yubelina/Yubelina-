@@ -1,0 +1,212 @@
+
+
+
+
+
+
+#contener{
+width: 100%;
+height: 140%;
+
+background-image: url('bghome2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#daf{
+
+color: brown;
+
+    background-image: url('bghome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+}
+
+
+#daf2{
+
+    color: brown;
+    
+        background-image: url('bghome.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 80px;
+    }
+
+
+#daftar1{
+background-color: sienna;
+
+border-top: 1px solid black;
+
+padding-top: 30px;
+padding-right: 30px;
+
+padding-left: 200px; ;
+height: 80px;
+font-family: italic;
+
+
+}
+
+#daftar1a{
+    padding-right: 30px;
+    font-family: italic;
+    padding-left: 200px; ;
+    background-color:sienna;
+    border-bottom: black 1px solid;
+}
+
+
+
+#daftar2{
+    background-color: peru;
+
+    border-top: 1px solid black;
+    
+    padding-top: 30px;
+    padding-right: 30px;
+    
+    padding-left: 200px; ;
+    height: 80px;
+    font-family: italic;
+    }
+
+    #daftar2a{
+        padding-right: 30px;
+        font-family: italic;
+        padding-left: 200px; ;
+        background-color:peru;
+        border-bottom: black 1px solid;
+    
+        
+  padding-top: 30px;
+    }
+    
+    
+    
+#daftar3{
+
+    background-color: sienna;
+
+    border-top: 1px solid black;
+    
+    padding-top: 30px;
+    padding-right: 30px;
+    
+    padding-left: 200px; ;
+    height: 80px;
+    font-family: italic;
+    
+    
+background-color: sienna;
+       
+    
+    }
+
+
+    #daftar3a{
+        padding-right: 30px;
+        font-family: italic;
+        padding-left: 200px; ;
+        background-color:sienna;
+        border-bottom: black 1px solid;
+    
+
+    }
+    
+    
+     
+#daftar4{
+
+
+    background-color: peru;
+
+border-top: 1px solid black;
+
+padding-top: 30px;
+padding-right: 30px;
+
+padding-left: 200px; ;
+height: 80px;
+font-family: italic;
+
+    }
+
+    #daftar4a{
+        padding-right: 30px;
+        font-family: italic;
+        padding-left: 200px; ;
+        background-color:peru;
+        border-bottom: black 1px solid;
+    
+    }
+    
+    
+       
+#daftar5{
+
+    background-color: sienna;
+
+    border-top: 1px solid black;
+    
+   padding-left: 200px;
+    height: 80px;
+    font-family: italic;
+    
+       
+    
+    }
+
+    #daftar5a{
+        padding-right: 30px;
+        font-family: italic;
+        padding-left: 200px; ;
+        background-color:sienna;
+        border-bottom: black 1px solid;
+    
+    }
+    
+    
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    border-style: outset;
+    border-color: beige;
+   
+background-color:#dda15e;
+    position: fixed;
+    width: 100%;
+
+    font-style: italic;
+    font-size: medium;
+padding-top: 0%;
+height: 90px;
+list-style-type: none;
+
+}
+
+ul.horizontal-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+ul.horizontal-list li {
+    margin-right: 50px; 
+}
+.halsatu{
+    background-color: #ffcc5c;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    margin-top: 90px;
+    margin-left: 20%;
+width: 60%;
+height: 400px;
+    position: relative;
+}
+
+
+  

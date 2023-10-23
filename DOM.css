@@ -1,0 +1,143 @@
+
+
+
+
+
+#contener{
+    width: 100%;
+    height: 140%;
+    
+    background-image: url('bghome2.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        border-style: outset;
+        border-color: beige;
+       position: fixed;
+    background-color:#dda15e;
+        width: 100%;
+    
+        font-style: italic;
+        font-size: medium;
+    padding-top: 0%;
+    height: 90px;
+    list-style-type: none;
+    
+    }
+    ul.horizontal-list {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+  
+    }
+    ul.horizontal-list li {
+        margin-right: 50px; 
+    }        
+    #home{
+
+        background-color: moccasin;
+        height: 110px;
+
+    }
+
+
+.daftartag{
+ 
+   
+    width: 30%;
+    height: 40px;
+    border-radius: 25px;
+position: relative;
+
+
+} 
+
+
+#Tag li{
+
+    
+    margin-left: 35%;
+background-color: aliceblue;
+text-align: center;
+    border: 1px solid coral;
+    width: 65%;
+    height: 40px;
+    
+
+}
+
+  #textInput{
+
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 45%;
+  }
+
+  #set{
+
+
+    width: 80%;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 46%;
+  }
+
+  #addcolor{
+
+    
+    width: 80%;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 47%;
+  }
+    
+  
+  #add{
+
+    
+    width: 80%;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 48%;
+  }
+    
+
+
+
+/*   
+ ~~~by bebe~~~~
+ 
+  display: none;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  background-color: #dda15e;
+  display: none;;
+  bottom: 0;
+  z-index:1;
+
+     */
+ 
+
+    #footer{
+        /* width: 15%;
+        height: 40px;
+        background-color: blue; */
+
+        text-align: center;
+        
+        width: 50%;
+        height: 100px;
+        background-color: #dda15e;
+        display: none;;
+        bottom: 0;
+        z-index:1;
+        margin-left: 20px;
+    
+    }
